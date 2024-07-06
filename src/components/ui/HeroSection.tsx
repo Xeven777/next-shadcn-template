@@ -19,11 +19,9 @@ export default function Component() {
               </p>
             </div>
             <div className="flex gap-4 px-2">
-              <Button className="max-w-fit">
-                Login
-              </Button>
+              <Button className="max-w-fit">Login</Button>
               <Button asChild className="max-w-fit" variant={"outline"}>
-                <Link href="https://github.com/Xeven777/nextjs-with-auth-mongo">
+                <Link href="https://github.com/Xeven777/next-shadcn-template">
                   Github
                 </Link>
               </Button>
