@@ -1,4 +1,9 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    images: {
+        remotePatterns: [{ hostname: "assets.lummi.ai" }],
+        dangerouslyAllowSVG: true,
+    }
+};
 
 export default nextConfig;
