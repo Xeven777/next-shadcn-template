@@ -5,7 +5,7 @@ This project demonstrates a basic setup of a Next.js application integrated with
 ## Features ✨
 
 - **NextJS 15 app router**: Build your UI with the latest version of NextJS 14.
-- **Tailwind CSS**: Style your application with utility-first CSS framework Tailwind CSS.
+- **Tailwind CSS v4**: Style your application with utility-first CSS framework Tailwind CSS.
 - **Shadcn UI** : The most trending UI library for modern looking apps. Input, button, sheet, sonner , dropdown and avatar already added!
 - **Theme Toggle**: Includes functionality for switching between dark and light themes, improving user experience and accessibility.
 
